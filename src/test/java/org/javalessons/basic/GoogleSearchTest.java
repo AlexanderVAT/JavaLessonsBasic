@@ -80,7 +80,7 @@ public class GoogleSearchTest {
     }
 
 @Test
-public void testAmazonMacBookPricesBelowfiveHundertFiftyFiveEuro() throws ParseException{
+public void testAmazonMacBookPricesBelowfiveHundertFiftyFiveEuro() throws ParseException,InterruptedException{
     driver.get(HTTPS_WWW_AMAZON_DE);
     WebElement element = driver.findElement(By.id("twotabsearchtextbox"));
     element.sendKeys("Mac Book");
@@ -97,7 +97,7 @@ public void testAmazonMacBookPricesBelowfiveHundertFiftyFiveEuro() throws ParseE
             try {
                 WebElement priceElement = item.findElement(By.cssSelector(".s-price"));
                 WebElement titleElement = item.findElement(By.cssSelector(".s-access-title"));
-                WebElement linkElement = item.findElement(By.tagName("Mac"));
+                WebElement linkElement = item.findElement(By.tagName("a"));
 
 
                 String titleText = titleElement.getText();
