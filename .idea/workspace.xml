@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24a026fc-240c-4d2e-b36c-651aac1a97f6" name="Default Changelist" comment="MyTest">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="24a026fc-240c-4d2e-b36c-651aac1a97f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-course-basic-java/src/test/java/org/javalessons/basic/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-course-basic-java/src/test/java/org/javalessons/basic/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-course-basic-java" beforeDir="false" afterPath="$PROJECT_DIR$/java-course-basic-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-course-basic-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-course-basic-java/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,11 +64,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="610" />
+          <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="610" />
+          <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -279,7 +281,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533971357084" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533971579911" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -444,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533375821488</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="My first AmazonSearch">
+      <created>1533971497972</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1533971497973</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -481,7 +490,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28432956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -516,7 +524,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MyTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyTest" />
+    <MESSAGE value="My first AmazonSearch" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first AmazonSearch" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
